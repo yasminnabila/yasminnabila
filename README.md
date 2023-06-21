@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Yasmin 👋
 
 Watch my contribution graph get eaten by the snake!
 <picture>
