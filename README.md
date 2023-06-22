@@ -1,22 +1,31 @@
 👻
 
-# 👋 Hi! I'm Yasmin Nabila.
+Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll.com/) working on streamlining and simplifying HR services processes ✨
 
-Welcome to my GitHub profile! I'm a self-taught software developer who is enthusiastic about building innovative solutions and exploring new technologies. Currently, I work as a Full Stack Developer at [Klikpayroll](https://klikpayroll.com/), where I contribute to the development of a web application that simplifies and streamlines HR processes related to employee payroll services. Recently, I'm exploring message broker and elastic load balancer for performance optimization ✨
+### Things I care about
+- 🌱 Open-source sustainability; I'm interested in contributing to future projects that support and promote open-source initiatives
+- 🎥👗 Creative industries (films/tv and fashion); These areas have always been serious hobbies for me, and I aspire to explore opportunities to work in these industries in the future! #YasminAtCannes2025 #FingersCrossed
+- ♻️ Circular economy; I believe tech plays a crucial role in scaling up the circular economy and I wish to be a part of it
+- ✍️ Blog/newsletter/community hub; Aspires to establish a presence on these platforms to express my authentic self
 
-## Hobbies
+### Tech/ Tools
+- Languages: CSS3, HTML5, Java, JavaScript, PHP
+- Database: MySQL, Postgres
+- Design: Figma
+- Frameworks/ Platforms/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring, Vue.js
+- IDEs/Editors: IntelliJ IDEA, Visual Studio Code
+- ORM: Sequelize
+- Messaging Systems: RabbitMQ, AmazonMQ
+- Application Security Testing: AppTrana
+- Performance Testing: Apache JMeter, Gatling
+- Load Balancing: Amazon Elastic Load Balancer
+- Domain Management: Microsoft, Hostinger
 
-Apart from coding, I have a wide range of interests and hobbies that keep me inspired and motivated. Here are a few of them:
-- 🎥 Films: I enjoy watching movies from various genres and exploring different storytelling techniques. Films have the power to transport us to different worlds and inspire creativity.
-- 🎨 Arts: Art, in all its forms, fascinates me. I appreciate different art styles and enjoy visiting galleries and exhibitions to discover new artists and their unique perspectives.
-- 👗 Fashion: Fashion is a form of self-expression, and I find it intriguing how it evolves over time. I follow fashion trends and enjoy experimenting with different styles to create my own.
-- 📚 Books: Reading is a wonderful way to expand our knowledge and imagination. I love diving into captivating stories, exploring diverse genres, and gaining insights from thought-provoking books.
-
-## Future Goals
-In the future, I aspire to combine my passion for technology with my interests in films, arts, fashion, and books. I envision working on projects that merge these industries, creating innovative solutions and experiences that bridge the gap between technology and creative expression. With my software development skills and diverse interests, I'm excited about the possibilities that lie ahead.
-
-## Get in Touch
-I'm always open to collaborating on exciting projects or discussing ideas related to software development, creative industries, or anything in between. Feel free to reach out to me via email or connect with me on social media. Let's create something amazing together!
+### Get in touch
+- Twitter: https://twitter.com/yasmxn
+- LinkedIn: https://www.linkedin.com/in/yasminnabila/
+- Letterboxd: http://boxd.it/WB0p
+- Serializd: https://srlzd.com/u/naomspierce
 
 Thank you for visiting my GitHub profile. Have a great day! ♥️
 
