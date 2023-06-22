@@ -29,7 +29,7 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 
 Thank you for visiting my GitHub profile. Have a great day! ♥️
 
-_Watch my contribution graph get eaten by the 🐍_
+_PS: Watch my contribution graph get eaten by the 🐍_
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yasminnabila/yasminnabila/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/yasminnabila/yasminnabila/blob/output/github-contribution-grid-snake.svg" />
