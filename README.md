@@ -9,25 +9,22 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 - ✍️ Blog/newsletter/community hub; Aspires to establish a presence on these platforms to express my authentic self
 
 ### Tech/ Tools
-- Languages: CSS3, HTML5, Java, JavaScript, PHP
 - Database: MySQL, Postgres
-- Design: Figma
-- Frameworks/ Platforms/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring, Vue.js
+- Frameworks/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring
 - IDEs/Editors: IntelliJ IDEA, Visual Studio Code
-- ORM: Sequelize
+- Languages: CSS3, HTML5, Java, JavaScript, PHP
 - Messaging Systems: RabbitMQ, AmazonMQ
-- Application Security Testing: AppTrana
 - Performance Testing: Apache JMeter, Gatling
-- Load Balancing: Amazon Elastic Load Balancer
-- Domain Management: Microsoft, Hostinger
+- OS & Tools: Linux, Mac OS, Git, Github
 
-### Get in touch
+### Where to find (and be friends with) me 
 - Twitter: https://twitter.com/yasmxn
+- Spotify: https://open.spotify.com/user/yasminnabila?si=e01bf7ca8afb4ecb
 - LinkedIn: https://www.linkedin.com/in/yasminnabila/
 - Letterboxd: http://boxd.it/WB0p
-- Serializd: https://srlzd.com/u/naomspierce
-
+  
 Thank you for visiting my GitHub profile. Have a great day! ♥️
+
 
 _PS: Watch my contribution graph get eaten by the 🐍_
 <picture>
