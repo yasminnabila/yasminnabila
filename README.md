@@ -7,7 +7,7 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 - 🎥👗 Films/tv and fashion: Creative industry hyperfixation is literally serious hobby for me. Well, exciting times lie ahead! 🙇 #YasminAtCannes2025 #FingersCrossed
 - ♻️ Amplifying the circular economy: I believe tech plays a crucial & significant impact on the circular economy practices. Here's to more tech-better future intertwines!
 - ✍️ Genuine expression: Through blogging and community hubs, I aim to nurture a dynamic platform where I can authentically express my ideas and insights
-- 
+  
 ## Tech/ Tools I work with:
 - 🔮 Database: MySQL, Postgres
 - 🎨 Frameworks/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring
