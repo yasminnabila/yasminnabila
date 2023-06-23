@@ -3,28 +3,27 @@
 Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll.com/) working on streamlining and simplifying HR services processes ✨
 
 ## Things I care about
-- 🌱 Open-source sustainability; I'm interested in contributing to future projects that support and promote open-source initiatives
-- 🎥👗 Creative industries (films/tv and fashion); These areas have always been serious hobbies for me, and I wish to explore opportunities to work in these industries in the future hehe 🙇 #YasminAtCannes2025 #FingersCrossed
-- ♻️ Circular economy; I believe tech plays a crucial role in scaling up the circular economy and I wish to be a part of it
-- ✍️ Blog/newsletter/community hub; Aspires to establish a presence on these platforms to express my authentic self
+- 🌱 Supporting open-source projects: I'm interested in contributing to initiatives that promote and sustain open-source software.
+- 🎥👗 Creative industries: These areas have always been serious hobbies for me, and I hope to explore opportunities to work in these fields in the future. Exciting times ahead! 🙇 #YasminAtCannes2025 #FingersCrossed
+- ♻️ Circular economy: I believe that technology can play a vital role in scaling up the circular economy, and I'm eager to be a part of it
+- ✍️ Be authentic: Through blogs, newsletters, and community hubs, I strive to establish a presence where I can authentically express myself
 
-## Tech/ Tools
-- Database: MySQL, Postgres
-- Frameworks/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring
-- IDEs/Editors: IntelliJ IDEA, Visual Studio Code
-- Languages: CSS3, HTML5, Java, JavaScript, PHP
-- Messaging Systems: RabbitMQ, AmazonMQ
-- Performance Testing: Apache JMeter, Gatling
-- OS & Tools: Linux, Mac OS, Git, Github
+## Tech/ Tools I work with:
+- 🔮 Database: MySQL, Postgres
+- 🎨 Frameworks/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring
+- ✨ IDEs/Editors: IntelliJ IDEA, Visual Studio Code
+- 🌐 Languages: CSS3, HTML5, Java, JavaScript, PHP
+- 💌 Messaging Systems: RabbitMQ, AmazonMQ
+- 📈 Performance Testing: Apache JMeter, Gatling
+- 🔧 OS & Tools: Linux, Mac OS, Git, Github
 
-## Get in touch!
+## Feel free to get in touch with me through these channels:
 - Twitter: https://twitter.com/yasmxn
 - Spotify: https://open.spotify.com/user/yasminnabila?si=e01bf7ca8afb4ecb
 - LinkedIn: https://www.linkedin.com/in/yasminnabila/
 - Letterboxd: http://boxd.it/WB0p
   
 Thank you for visiting my GitHub profile. Have a great day! ♥️
-
 
 _PS: Watch my contribution graph get eaten by the purple 🐍_
 <picture>
