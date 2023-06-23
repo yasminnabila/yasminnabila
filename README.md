@@ -1,12 +1,12 @@
 👻
 
-Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll.com/) working on streamlining and simplifying HR services processes ✨
+Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll.com/) working on streamlining and simplifying HR service processes ✨
 
 ## Things I care about
-- 🌱 Supporting open-source projects: I'm interested in contributing to initiatives that promote and sustain open-source software.
-- 🎥👗 Creative industries: These areas have always been serious hobbies for me, and I hope to explore opportunities to work in these fields in the future. Exciting times ahead! 🙇 #YasminAtCannes2025 #FingersCrossed
-- ♻️ Circular economy: I believe that technology can play a vital role in scaling up the circular economy, and I'm eager to be a part of it
-- ✍️ Be authentic: Through blogs, newsletters, and community hubs, I strive to establish a presence where I can authentically express myself
+- 🌱 Supporting open-source projects: To empower collaboration, innovation, and accessibility in the world of software development <3
+- 🎥👗 Films/tv and fashion: Pop culture hyperfixation are literally serious hobbies for me. Exciting times lie ahead! 🙇 #YasminAtCannes2025 #FingersCrossed
+- ♻️ Amplifying the circular economy: I believe technology has the power to make a significant impact on the circular economy
+- ✍️ Genuine expression: I strive to share my thoughts and perspectives authentically through blogs, newsletters, and community engagement
 
 ## Tech/ Tools I work with:
 - 🔮 Database: MySQL, Postgres
@@ -23,7 +23,7 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 - LinkedIn: https://www.linkedin.com/in/yasminnabila/
 - Letterboxd: http://boxd.it/WB0p
   
-Thank you for visiting my GitHub profile. Have a great day! ♥️
+Thank you for visiting my GitHub profile. Wishing you a fantastic day! ♥️
 
 _PS: Watch my contribution graph get eaten by the purple 🐍_
 <picture>
