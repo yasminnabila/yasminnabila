@@ -17,7 +17,7 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 - 📈 Performance Testing: Apache JMeter, Gatling
 - 🔧 OS & Tools: Linux, Mac OS, Git, Github
 
-## Feel free to get in touch with me through these channels:
+## Let's get in touch!
 - Twitter: https://twitter.com/yasmxn
 - Spotify: https://open.spotify.com/user/yasminnabila?si=e01bf7ca8afb4ecb
 - LinkedIn: https://www.linkedin.com/in/yasminnabila/
