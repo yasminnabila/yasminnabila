@@ -1,6 +1,6 @@
 👻
 
-Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll.com/) working on streamlining and simplifying HR service processes ✨
+Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll.com/) working on streamlining and simplifying HR service processes.
 
 ## Things I care about
 - 🌱 Supporting open-source projects: To empower collaboration, innovation, and accessibility in the world of software development <3
@@ -24,13 +24,6 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 - Letterboxd: http://boxd.it/WB0p
   
 Thank you for visiting my GitHub profile. Wishing you a fantastic day! ♥️
-
-_PS: Watch my contribution graph get eaten by the purple 🐍_
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yasminnabila/yasminnabila/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yasminnabila/yasminnabila/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/yasminnabila/yasminnabila/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <!--
 **yasminnabila/yasminnabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
