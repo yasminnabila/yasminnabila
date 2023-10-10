@@ -12,7 +12,7 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 - 🔮 Database: MySQL, Postgres
 - 🎨 Frameworks/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring, Swagger
 - ✨ IDEs/Editors: IntelliJ IDEA, Visual Studio Code
-- 🌐 Languages: CSS3, HTML5, Java, JavaScript, PHP
+- 🌐  Languages: CSS3, HTML5, Java, JavaScript, PHP, Dart (for Flutter)
 - 💌 Messaging Systems: RabbitMQ, AmazonMQ, Server Sent Events
 - 📈 Performance Testing: Apache JMeter, Gatling
 - 🔧 OS & Tools: Linux, Mac OS, Git, Github
