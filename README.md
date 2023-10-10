@@ -15,7 +15,8 @@ Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll
 - 🌐  Languages: CSS3, HTML5, Java, JavaScript, PHP, Dart (for Flutter)
 - 💌 Messaging Systems: RabbitMQ, AmazonMQ, Server Sent Events
 - 📈 Performance Testing: Apache JMeter, Gatling
-- 🔧 OS & Tools: Linux, Mac OS, Git, Github
+- 🖥️ Operating Systems: Linux, Mac OS
+- 🔧 Tools: Git, Github, SSH, Elastic Load Balancer (ELB)
 
 ## Let's get in touch!
 - Twitter: https://twitter.com/yasmxn
