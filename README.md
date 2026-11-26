@@ -1,42 +1,29 @@
-👻
+# Hi, I'm Yasmin 👋
 
-Hi, I'm Yasmin— a junior back-end developer @[Klikpayroll](https://klikpayroll.com/) working on streamlining and simplifying HR service processes.
+Software Developer with 2+ years of experience in full-stack web development, specializing in backend development and API integration.
 
-## Things I care about
-- 🌱 Supporting open-source projects: To empower collaboration, innovation, and accessibility in the world of software development <3
-- 🎥👗 Creative industries: Watching films/tvs and being a fashion enthusiast have always been serious hobbies for me. With hopeful anticipation, I set my sights on a future where my worlds collide. Well, exciting times lie ahead! 🙇 #YasminAtCannes2025 #FingersCrossed
-- ♻️ Amplifying the circular economy: I believe tech plays a crucial & significant impact on the circular economy practices. Here's to more tech & better future intertwines!
-- ✍️ Genuine expression: Through blogging and community hubs, I aspire to establish a presence on these platforms to express my authentic self 💭
-  
-## Tech/ Tools I work with:
-- 🔮 Database: MySQL, Postgres
-- 🎨 Frameworks/ Libraries: Bootstrap, Express.js, Insomnia, Laravel, Node.js, React, React Native, Spring, Swagger
-- ✨ IDEs/Editors: IntelliJ IDEA, Visual Studio Code
-- 🌐  Languages: CSS3, HTML5, Java, JavaScript, PHP, Dart (for Flutter)
-- 💌 Messaging Systems: RabbitMQ, AmazonMQ, Server Sent Events
-- 📈 Performance Testing: Apache JMeter, Gatling
-- 🖥️ Operating Systems: Linux, Mac OS
-- 🔧 Tools: Git, Github, SSH, Elastic Load Balancer (ELB)
+I enjoy building reliable applications, working with databases, and solving software engineering problems.
 
-## Let's get in touch!
-- Twitter: https://twitter.com/yasmxn
-- Spotify: https://open.spotify.com/user/yasminnabila?si=e01bf7ca8afb4ecb
-- LinkedIn: https://www.linkedin.com/in/yasminnabila/
-- Letterboxd: http://boxd.it/WB0p
-  
-Thank you for visiting my GitHub profile. Wishing you a fantastic day! ♥️
+### Tech Stack
 
-<!--
-**yasminnabila/yasminnabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages:** Java, JavaScript, PHP
+- **Backend:** Spring Boot, Node.js, Express.js, Laravel
+- **Frontend:** React, React Native
+- **Database:** MySQL, PostgreSQL
+- **Messaging:** RabbitMQ, AmazonMQ
+- **Tools:** Git, GitHub
 
-Here are some ideas to get you started:
+### Currently Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Large Language Model (LLM) APIs
+- Retrieval-Augmented Generation (RAG)
+- AI-powered applications
+
+### Featured Projects
+
+Coming soon: AI-powered Document Assistant.
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yasminnabila/)
+- [GitHub](https://github.com/yasminnabila)
