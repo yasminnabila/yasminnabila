@@ -19,10 +19,6 @@ I enjoy building reliable applications, working with databases, and solving soft
 - Retrieval-Augmented Generation (RAG)
 - AI-powered applications
 
-### Featured Projects
-
-Coming soon: AI-powered Document Assistant.
-
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/yasminnabila/)
